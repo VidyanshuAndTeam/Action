@@ -11,5 +11,5 @@ jobs:
       
       - name: vidyanshu.ashokkumar@gramener.com
         run: echo "Hello, world!"
-      - name: devarakonda.kushieshwar@straive.com
+      - name: vidyanshu.ashokkumar@gramener.com
         run: echo "Hello, world!"
